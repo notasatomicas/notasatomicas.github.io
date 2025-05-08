@@ -26,7 +26,16 @@ La longitud de las barras no indica la cantidad de trabajo, sino sólo la tempor
 Si el proyecto es complejo e involucra muchas tareas en una estructura de desglose de trabajo, entonces todas las tareas no son visibles en una sola vista del diagrama de Gantt
 
 ## Ejemplo
-[imagen]
+## Tabla de Gantt
+
+| Actividad | Precedentes | Duración | Inicio | Fin | Diagrama                  |
+|-----------|-------------|----------|--------|-----|---------------------------|
+| A         | -           | 2        | 0      | 2   | ████                       |
+| B         | A           | 2        | 2      | 4   |     ████                   |
+| C         | A           | 1        | 2      | 3   |     ██                     |
+| D         | B, C        | 2        | 4      | 6   |         ████               |
+| E         | D           | 3        | 6      | 9   |             ███████       |
+
 
 Diagrama de Gantt realizado con la Herramienta ProjectLibre
 
