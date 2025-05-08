@@ -1,6 +1,6 @@
 +++
 date = '2025-05-08T12:53:48-03:00'
-draft = true
+draft = false
 title = 'Diagramas_de_Gantt'
 +++
 
