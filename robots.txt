@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://notasatomicas.github.io/sitemap.xml
