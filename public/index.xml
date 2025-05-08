@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Bienvenidos a mi sitio Hugo on Mi Sitio Hugo</title>
     <link>http://localhost:1313/</link>
     <description>Recent content in Bienvenidos a mi sitio Hugo on Mi Sitio Hugo</description>
-    <generator>Hugo -- 0.147.2</generator>
+    <generator>Hugo</generator>
     <language>es</language>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -12,8 +12,7 @@
       <link>http://localhost:1313/mi_pagina/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/mi_pagina/</guid>
-      <description>&lt;h1 id=&#34;bienvenidos-a-mi-página&#34;&gt;¡Bienvenidos a mi página!&lt;/h1&gt;
-&lt;p&gt;Este es el contenido de una página creada manualmente.&lt;/p&gt;</description>
+      <description>&lt;h1 id=&#34;bienvenidos-a-mi-página&#34;&gt;¡Bienvenidos a mi página!&lt;/h1&gt;&#xA;&lt;p&gt;Este es el contenido de una página creada manualmente.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
