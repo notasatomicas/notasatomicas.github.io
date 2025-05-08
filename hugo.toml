@@ -27,6 +27,3 @@ enableRobotsTXT = true
   ShowPostNavLinks = true
   defaultTheme = "light" # o "auto", "dark"
   mainSections = ["posts"]
-
-[params.homeInfoParams]
-  Title = "Ingeniería del Software I"
