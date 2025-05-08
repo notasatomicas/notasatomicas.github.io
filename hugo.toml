@@ -6,7 +6,7 @@ theme = "PaperMod"
 # Soporte para RSS, sitemaps, etc.
 enableRobotsTXT = true
 
-# Menús principales (puedes expandirlos)
+# Menús principales
 [menu]
   [[menu.main]]
     identifier = "about"
@@ -26,10 +26,8 @@ enableRobotsTXT = true
   ShowToc = true
   ShowPostNavLinks = true
   defaultTheme = "light" # o "auto", "dark"
-  
-  homeInfoParams = { 
-    Title = "Ingeniería del Software I", 
-    Content = "Página donde se publican resúmenes, apuntes y temas tratados en la materia Ingeniería del Software 1. Funciona como un blog para organizar y compartir el contenido a lo largo del curso." 
-  }
-
   mainSections = ["posts"]
+
+[params.homeInfoParams]
+  Title = "Ingeniería del Software I"
+  Content = "Página donde se publican resúmenes, apuntes y temas tratados en la materia Ingeniería del Software 1. Funciona como un blog para organizar y compartir el contenido a lo largo del curso."
