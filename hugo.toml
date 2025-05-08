@@ -1,3 +1,28 @@
-baseURL = "http://localhost:1313/"
+baseURL = "https://notasatomicas.github.io/"
 languageCode = "es"
 title = "Mi Sitio Hugo"
+theme = "PaperMod"
+
+# Soporte para RSS, sitemaps, etc.
+enableRobotsTXT = true
+
+# Menús principales (puedes expandirlos)
+[menu]
+  [[menu.main]]
+    identifier = "about"
+    name = "Sobre mí"
+    url = "/about/"
+    weight = 1
+
+# Parámetros del tema
+[params]
+  env = "production" # para eliminar el aviso "draft"
+  title = "Mi Sitio Hugo"
+  description = "Un blog usando el tema PaperMod"
+  author = "Tu nombre"
+  ShowReadingTime = true
+  ShowShareButtons = true
+  ShowCodeCopyButtons = true
+  ShowToc = true
+  ShowPostNavLinks = true
+  defaultTheme = "light" # o "auto", "dark"
