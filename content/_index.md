@@ -1,7 +1,7 @@
 ---
-title: "Bienvenidos a mi sitio Hugo"
+title: "Bienvenidos a mi sitio"
 ---
 
 # Página de inicio
 
-Este es el contenido de la página principal de mi sitio Hugo.
+Este es el contenido de la página principal del sitio.

@@ -1,6 +1,6 @@
 baseURL = "https://notasatomicas.github.io/"
 languageCode = "es"
-title = "Mi Sitio Hugo"
+title = "Ingeniería del Software I"
 theme = "PaperMod"
 
 # Soporte para RSS, sitemaps, etc.
@@ -17,9 +17,9 @@ enableRobotsTXT = true
 # Parámetros del tema
 [params]
   env = "production" # para eliminar el aviso "draft"
-  title = "Mi Sitio Hugo"
-  description = "Un blog usando el tema PaperMod"
-  author = "Tu nombre"
+  title = "Ingeniería del Software I"
+  description = "Apuntes de la materia ISI"
+  author = "Notasatomicas"
   ShowReadingTime = true
   ShowShareButtons = true
   ShowCodeCopyButtons = true
