@@ -36,7 +36,7 @@ Si el proyecto es complejo e involucra muchas tareas en una estructura de desglo
 | E         | D           | 3        |
 
 
-![Diagrama de Gantt](content/posts/Diagramas_de_Gantt/1.bmp)
+![Diagrama de Gantt](./Diagramas_de_Gantt/1.bmp)
 
 Diagrama de Gantt realizado con la Herramienta ProjectLibre
 
