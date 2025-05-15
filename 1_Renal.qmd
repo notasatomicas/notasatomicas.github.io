@@ -1,8 +1,7 @@
-# Introducción
-
-El sistema renal desempeña un papel fundamental en el mantenimiento de la homeostasis del organismo. A través de procesos como la filtración, la reabsorción y la secreción, los riñones regulan el volumen de líquidos corporales, el equilibrio ácido-base, y la eliminación de desechos metabólicos.
+# Fisiología renal
 
 ## 1. Funciones del riñon
+El sistema renal desempeña un papel fundamental en el mantenimiento de la homeostasis del organismo. A través de procesos como la filtración, la reabsorción y la secreción, los riñones regulan el volumen de líquidos corporales, el equilibrio ácido-base, y la eliminación de desechos metabólicos.
 
 - **Funciones principales del riñón:**
   - Regulación del volumen y composición del líquido extracelular.

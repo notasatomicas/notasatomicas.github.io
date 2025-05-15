@@ -21,6 +21,8 @@ El objetivo de este apunte es guardar todos los archivos de repaso de fisio de f
 - **Mecanismo de contracorriente**  
   Sistema multiplicador y de intercambio en asa de Henle y capilares rectos, crucial para la concentración de la orina.
 
+---
+
 ### DIGESTIVO
 
 - **Aparato digestivo: secreción, digestión y absorción**  
@@ -34,5 +36,25 @@ El objetivo de este apunte es guardar todos los archivos de repaso de fisio de f
 
 - **Fisiología del hígado**  
   Procesamiento de nutrientes, síntesis de proteínas plasmáticas, metabolismo de lípidos y detoxificación hepática.
+
+---
+
+### FISIOLOGÍA DEL EJERCICIO
+
+---
+
+### METABOLISMO ENERGÉTICO
+
+- **Metabolismo energético: concepto y uso de la energía por el organismo**  
+  Definición de metabolismo energético y formas en que el cuerpo utiliza ATP para funciones celulares, musculares y de mantenimiento basal.
+
+- **Interrelaciones metabólicas**  
+  Conexión entre rutas metabólicas (glucólisis, lipólisis, gluconeogénesis, etc.) y cómo se adaptan según el estado nutricional y hormonal.
+
+- **El adipocito como órgano endocrino**  
+  Función hormonal del tejido adiposo: secreción de leptina, adiponectina y su influencia en la homeostasis energética y la inflamación.
+
+- **Gasto energético: métodos para su determinación**  
+  Métodos directos e indirectos para medir el gasto energético, incluyendo calorimetría y fórmulas predictivas.
 
 ---
