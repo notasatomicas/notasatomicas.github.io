@@ -4,17 +4,24 @@ project:
 book:
   title: "Repaso Fisiología"
   author: "Ariel Antinori"
-  date: "14/05/2025"
+  date: 2025-05-14
   chapters:
     - index.qmd
     - 1_Renal.qmd
+    - 2_Digestivo.qmd
+    - 3_Fisio-del-ejercicio.qmd
+    - 4_Metabolismo-energetico.qmd
     - summary.qmd
+
+language: es
 
 format:
   html:
     theme:
       - litera
       - brand
+    toc: true
+    number-sections: true
   pdf:
     documentclass: scrreprt
 
