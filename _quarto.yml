@@ -4,10 +4,10 @@ project:
 book:
   title: "Repaso Fisiología"
   author: "Ariel Antinori"
-  date: "15/5/2025"
+  #date: "15/05/2025"
   chapters:
     - index.qmd
-    - intro.qmd
+    - 1_Renal.qmd
     - summary.qmd
 
 format:

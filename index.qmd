@@ -1,3 +1,38 @@
 # Repaso de fisiología {.unnumbered}
 
-El objetivo de este apunte es guardar todos los archivos de repaso de fisio de forma automática en la nube en un formato reproducible, fiable y elegante.
+El objetivo de este apunte es guardar todos los archivos de repaso de fisio de forma automática en la nube en un formato reproducible.
+
+## Temas que se dieron en los teoricos/practicos
+
+### RENAL
+
+- **Anatomía fisiológica del riñón**  
+  Organización estructural del nefrón, los túbulos renales y su relación con los vasos sanguíneos.
+
+- **Circulación renal**  
+  Características especiales del flujo sanguíneo renal, autorregulación y particularidades del sistema portal renal.
+
+- **Filtración glomerular**  
+  Mecanismo de filtración en el glomérulo, factores que la regulan y su importancia clínica.
+
+- **Mecanismo de formación de orina**  
+  Procesos de filtración, reabsorción tubular y secreción, con énfasis en su función integrada.
+
+- **Mecanismo de contracorriente**  
+  Sistema multiplicador y de intercambio en asa de Henle y capilares rectos, crucial para la concentración de la orina.
+
+### DIGESTIVO
+
+- **Aparato digestivo: secreción, digestión y absorción**  
+  Procesos fundamentales que permiten descomponer los alimentos en nutrientes absorbibles y trasladarlos al sistema circulatorio portal.
+
+- **Motricidad, peristaltismo, conceptos y regulación**  
+  Movimientos musculares del tubo digestivo, incluyendo el peristaltismo y su control neural y hormonal.
+
+- **Páncreas exócrino**  
+  Función secretora del páncreas: producción de enzimas digestivas, su activación y regulación por señales intestinales.
+
+- **Fisiología del hígado**  
+  Procesamiento de nutrientes, síntesis de proteínas plasmáticas, metabolismo de lípidos y detoxificación hepática.
+
+---
