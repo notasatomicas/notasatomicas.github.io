@@ -110,13 +110,43 @@
     ]
   },
   {
+    "objectID": "2_Digestivo.html",
+    "href": "2_Digestivo.html",
+    "title": "2  Digestivo",
+    "section": "",
+    "text": "En esta parte va digestivo",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Digestivo</span>"
+    ]
+  },
+  {
+    "objectID": "3_Fisio-del-ejercicio.html",
+    "href": "3_Fisio-del-ejercicio.html",
+    "title": "3  Fisiología del ejercicio",
+    "section": "",
+    "text": "Aca va lo del teorico del dr chiapello",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Fisiología del ejercicio</span>"
+    ]
+  },
+  {
+    "objectID": "4_Metabolismo-energetico.html",
+    "href": "4_Metabolismo-energetico.html",
+    "title": "4  Metabolismo energético",
+    "section": "",
+    "text": "Apuntes de met energ",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Metabolismo energético</span>"
+    ]
+  },
+  {
     "objectID": "summary.html",
     "href": "summary.html",
-    "title": "2  Resumen",
+    "title": "5  Resumen",
     "section": "",
     "text": "En esta área iran los resumenes recontra importantes",
     "crumbs": [
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Resumen</span>"
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Resumen</span>"
     ]
   }
 ]
