@@ -1,4 +1,4 @@
-name: Quarto Publish
+name: Render and Deploy Quarto Book
 
 on:
   push:
@@ -6,27 +6,26 @@ on:
       - main
 
 jobs:
-  build-deploy:
+  render-deploy:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v4
+    - uses: actions/checkout@v4
 
-      - uses: quarto-dev/quarto-actions/setup@v2
+    - uses: quarto-dev/quarto-actions/setup@v2
+      with:
+        version: '1.5.47'
 
-      # Instala TinyTeX para poder compilar PDF
-      - name: Install TinyTeX
-        run: |
-          quarto install tinytex
-          sudo apt-get update
-          sudo apt-get install -y libfreetype6-dev libfontconfig1
+    - name: Install XeLaTeX
+      run: |
+        sudo apt-get update
+        sudo apt-get install -y texlive-xetex texlive-latex-recommended texlive-latex-extra
 
-      - name: Render Book (HTML + PDF)
-        run: |
-          quarto render .
+    - name: Render Quarto Book
+      run: quarto render .
 
-      - name: Publish to GitHub Pages
-        uses: peaceiris/actions-gh-pages@v3
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./_book
+    - uses: peaceiris/actions-gh-pages@v3
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        publish_dir: ./_book
+        publish_branch: gh-pages
