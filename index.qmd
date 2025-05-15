@@ -1,5 +1,3 @@
-# Preface {.unnumbered}
+# Repaso de fisiología {.unnumbered}
 
-This is a Quarto book.
-
-To learn more about Quarto books visit <https://quarto.org/docs/books>.
+El objetivo de este apunte es guardar todos los archivos de repaso de fisio de forma automática en la nube en un formato reproducible, fiable y elegante.
