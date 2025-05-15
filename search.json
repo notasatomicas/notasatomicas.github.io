@@ -4,19 +4,9 @@
     "href": "index.html",
     "title": "Repaso Fisiología",
     "section": "",
-    "text": "Repaso de fisiología\nEl objetivo de este apunte es guardar todos los archivos de repaso de fisio de forma automática en la nube en un formato reproducible.",
+    "text": "Temas que se dieron en los teoricos/practicos\nEl objetivo de este apunte es guardar la info importante en forma automática en la nube en un formato reproducible, transferible, fiable y elegante.\nEste es el orden de los temas (mas o menos) que se fueron dando despues del primer parcial en los distintos teoricos/practicos.\n\n1. RENAL\n\nAnatomía fisiológica del riñón\nOrganización estructural del nefrón, los túbulos renales y su relación con los vasos sanguíneos.\nCirculación renal\nCaracterísticas especiales del flujo sanguíneo renal, autorregulación y particularidades del sistema portal renal.\nFiltración glomerular\nMecanismo de filtración en el glomérulo, factores que la regulan y su importancia clínica.\nMecanismo de formación de orina\nProcesos de filtración, reabsorción tubular y secreción, con énfasis en su función integrada.\nMecanismo de contracorriente\nSistema multiplicador y de intercambio en asa de Henle y capilares rectos, crucial para la concentración de la orina.\n\n\n\n\n2. DIGESTIVO\n\nAparato digestivo: secreción, digestión y absorción\nProcesos fundamentales que permiten descomponer los alimentos en nutrientes absorbibles y trasladarlos al sistema circulatorio portal.\nMotricidad, peristaltismo, conceptos y regulación\nMovimientos musculares del tubo digestivo, incluyendo el peristaltismo y su control neural y hormonal.\nPáncreas exócrino\nFunción secretora del páncreas: producción de enzimas digestivas, su activación y regulación por señales intestinales.\nFisiología del hígado\nProcesamiento de nutrientes, síntesis de proteínas plasmáticas, metabolismo de lípidos y detoxificación hepática.\n\n\n\n\n3. FISIOLOGÍA DEL EJERCICIO\n\n\n\n4. METABOLISMO ENERGÉTICO (un repaso de Interrelaciones metabólicas de bioqui)\n\nMetabolismo energético: concepto y uso de la energía por el organismo\nDefinición de metabolismo energético y formas en que el cuerpo utiliza ATP para funciones celulares, musculares y de mantenimiento basal.\nInterrelaciones metabólicas\nConexión entre rutas metabólicas (glucólisis, lipólisis, gluconeogénesis, etc.) y cómo se adaptan según el estado nutricional y hormonal.\nEl adipocito como órgano endocrino\nFunción hormonal del tejido adiposo: secreción de leptina, adiponectina y su influencia en la homeostasis energética y la inflamación.\nGasto energético: métodos para su determinación\nMétodos directos e indirectos para medir el gasto energético, incluyendo calorimetría y fórmulas predictivas.",
     "crumbs": [
-      "Repaso de fisiología"
-    ]
-  },
-  {
-    "objectID": "index.html#temas-que-se-dieron-en-los-teoricospracticos",
-    "href": "index.html#temas-que-se-dieron-en-los-teoricospracticos",
-    "title": "Repaso Fisiología",
-    "section": "Temas que se dieron en los teoricos/practicos",
-    "text": "Temas que se dieron en los teoricos/practicos\n\nRENAL\n\nAnatomía fisiológica del riñón\nOrganización estructural del nefrón, los túbulos renales y su relación con los vasos sanguíneos.\nCirculación renal\nCaracterísticas especiales del flujo sanguíneo renal, autorregulación y particularidades del sistema portal renal.\nFiltración glomerular\nMecanismo de filtración en el glomérulo, factores que la regulan y su importancia clínica.\nMecanismo de formación de orina\nProcesos de filtración, reabsorción tubular y secreción, con énfasis en su función integrada.\nMecanismo de contracorriente\nSistema multiplicador y de intercambio en asa de Henle y capilares rectos, crucial para la concentración de la orina.\n\n\n\n\nDIGESTIVO\n\nAparato digestivo: secreción, digestión y absorción\nProcesos fundamentales que permiten descomponer los alimentos en nutrientes absorbibles y trasladarlos al sistema circulatorio portal.\nMotricidad, peristaltismo, conceptos y regulación\nMovimientos musculares del tubo digestivo, incluyendo el peristaltismo y su control neural y hormonal.\nPáncreas exócrino\nFunción secretora del páncreas: producción de enzimas digestivas, su activación y regulación por señales intestinales.\nFisiología del hígado\nProcesamiento de nutrientes, síntesis de proteínas plasmáticas, metabolismo de lípidos y detoxificación hepática.\n\n\n\n\nFISIOLOGÍA DEL EJERCICIO\n\n\n\nMETABOLISMO ENERGÉTICO\n\nMetabolismo energético: concepto y uso de la energía por el organismo\nDefinición de metabolismo energético y formas en que el cuerpo utiliza ATP para funciones celulares, musculares y de mantenimiento basal.\nInterrelaciones metabólicas\nConexión entre rutas metabólicas (glucólisis, lipólisis, gluconeogénesis, etc.) y cómo se adaptan según el estado nutricional y hormonal.\nEl adipocito como órgano endocrino\nFunción hormonal del tejido adiposo: secreción de leptina, adiponectina y su influencia en la homeostasis energética y la inflamación.\nGasto energético: métodos para su determinación\nMétodos directos e indirectos para medir el gasto energético, incluyendo calorimetría y fórmulas predictivas.",
-    "crumbs": [
-      "Repaso de fisiología"
+      "Temas que se dieron en los teoricos/practicos"
     ]
   },
   {
@@ -24,7 +14,7 @@
     "href": "1_Renal.html",
     "title": "1  Fisiología renal",
     "section": "",
-    "text": "1.1 1. Funciones del riñon\nEl sistema renal desempeña un papel fundamental en el mantenimiento de la homeostasis del organismo. A través de procesos como la filtración, la reabsorción y la secreción, los riñones regulan el volumen de líquidos corporales, el equilibrio ácido-base, y la eliminación de desechos metabólicos.",
+    "text": "1.1 Funciones del riñon\nEl sistema renal desempeña un papel fundamental en el mantenimiento de la homeostasis del organismo. A través de procesos como la filtración, la reabsorción y la secreción, los riñones regulan el volumen de líquidos corporales, el equilibrio ácido-base, y la eliminación de desechos metabólicos.",
     "crumbs": [
       "<span class='chapter-number'>1</span>  <span class='chapter-title'>Fisiología renal</span>"
     ]
@@ -43,8 +33,8 @@
     "objectID": "1_Renal.html#anatomía-funcional-del-riñón",
     "href": "1_Renal.html#anatomía-funcional-del-riñón",
     "title": "1  Fisiología renal",
-    "section": "1.2 2. Anatomía funcional del riñón",
-    "text": "1.2 2. Anatomía funcional del riñón\n\nComponentes principales:\n\nNefrona: unidad funcional del riñón.\n\nGlomérulo\nTúbulo proximal\nAsa de Henle (descendente y ascendente)\nTúbulo distal\nTúbulo colector\n\nVascularización: arteria renal → arterias interlobulares → arteriolas aferentes → glomérulo → arteriolas eferentes → capilares peritubulares / vasos rectos.",
+    "section": "1.2 Anatomía funcional del riñón",
+    "text": "1.2 Anatomía funcional del riñón\n\nComponentes principales:\n\nNefrona: unidad funcional del riñón.\n\nGlomérulo\nTúbulo proximal\nAsa de Henle (descendente y ascendente)\nTúbulo distal\nTúbulo colector\n\nVascularización: arteria renal → arterias interlobulares → arteriolas aferentes → glomérulo → arteriolas eferentes → capilares peritubulares / vasos rectos.",
     "crumbs": [
       "<span class='chapter-number'>1</span>  <span class='chapter-title'>Fisiología renal</span>"
     ]
@@ -53,8 +43,8 @@
     "objectID": "1_Renal.html#filtración-glomerular",
     "href": "1_Renal.html#filtración-glomerular",
     "title": "1  Fisiología renal",
-    "section": "1.3 3. Filtración glomerular",
-    "text": "1.3 3. Filtración glomerular\n\nPresión de filtración neta:\n\nPNF = P hidro. glomerular - (P coloidosmótica glomerular + P hidro. capsular)\n\nTasa de Filtración Glomerular (TFG):\n\nPromedio ≈ 125 ml/min\nRegulación por autorregulación renal (mecanismo miogénico y feedback túbulo-glomerular)",
+    "section": "1.3 Filtración glomerular",
+    "text": "1.3 Filtración glomerular\n\nPresión de filtración neta:\n\nPNF = P hidro. glomerular - (P coloidosmótica glomerular + P hidro. capsular)\n\nTasa de Filtración Glomerular (TFG):\n\nPromedio ≈ 125 ml/min\nRegulación por autorregulación renal (mecanismo miogénico y feedback túbulo-glomerular)",
     "crumbs": [
       "<span class='chapter-number'>1</span>  <span class='chapter-title'>Fisiología renal</span>"
     ]
@@ -63,8 +53,8 @@
     "objectID": "1_Renal.html#reabsorción-y-secreción-tubular",
     "href": "1_Renal.html#reabsorción-y-secreción-tubular",
     "title": "1  Fisiología renal",
-    "section": "1.4 4. Reabsorción y secreción tubular",
-    "text": "1.4 4. Reabsorción y secreción tubular\n\nTúbulo proximal:\n\nReabsorbe ≈ 65% del filtrado.\nMecanismos activos (Na⁺/K⁺ ATPasa) y cotransporte (glucosa, aminoácidos).\n\nAsa de Henle:\n\nDescendente: permeable al agua.\nAscendente gruesa: impermeable al agua, activa en transporte de Na⁺, K⁺, Cl⁻.\n\nTúbulo distal y colector:\n\nAjuste fino del Na⁺, H₂O y K⁺.\nRegulado por aldosterona, ADH, y otras hormonas.",
+    "section": "1.4 Reabsorción y secreción tubular",
+    "text": "1.4 Reabsorción y secreción tubular\n\nTúbulo proximal:\n\nReabsorbe ≈ 65% del filtrado.\nMecanismos activos (Na⁺/K⁺ ATPasa) y cotransporte (glucosa, aminoácidos).\n\nAsa de Henle:\n\nDescendente: permeable al agua.\nAscendente gruesa: impermeable al agua, activa en transporte de Na⁺, K⁺, Cl⁻.\n\nTúbulo distal y colector:\n\nAjuste fino del Na⁺, H₂O y K⁺.\nRegulado por aldosterona, ADH, y otras hormonas.",
     "crumbs": [
       "<span class='chapter-number'>1</span>  <span class='chapter-title'>Fisiología renal</span>"
     ]
@@ -73,8 +63,8 @@
     "objectID": "1_Renal.html#concentración-y-dilución-de-la-orina",
     "href": "1_Renal.html#concentración-y-dilución-de-la-orina",
     "title": "1  Fisiología renal",
-    "section": "1.5 5. Concentración y dilución de la orina",
-    "text": "1.5 5. Concentración y dilución de la orina\n\nMecanismo de contracorriente:\n\nMultiplicador (asa de Henle) y sistema intercambiador (vasos rectos).\n\nGradiente osmótico medular:\n\nImprescindible para la concentración urinaria.\n\nAcción de la ADH (vasopresina):\n\nAumenta la permeabilidad al agua del túbulo colector → concentración urinaria.",
+    "section": "1.5 Concentración y dilución de la orina",
+    "text": "1.5 Concentración y dilución de la orina\n\nMecanismo de contracorriente:\n\nMultiplicador (asa de Henle) y sistema intercambiador (vasos rectos).\n\nGradiente osmótico medular:\n\nImprescindible para la concentración urinaria.\n\nAcción de la ADH (vasopresina):\n\nAumenta la permeabilidad al agua del túbulo colector → concentración urinaria.",
     "crumbs": [
       "<span class='chapter-number'>1</span>  <span class='chapter-title'>Fisiología renal</span>"
     ]
@@ -83,8 +73,8 @@
     "objectID": "1_Renal.html#regulación-del-volumen-y-osmolaridad",
     "href": "1_Renal.html#regulación-del-volumen-y-osmolaridad",
     "title": "1  Fisiología renal",
-    "section": "1.6 6. Regulación del volumen y osmolaridad",
-    "text": "1.6 6. Regulación del volumen y osmolaridad\n\nHormonas clave:\n\nADH → conservación de agua.\nAldosterona → reabsorción de Na⁺.\nPéptidos natriuréticos → excreción de Na⁺ y agua.\nSistema Renina-Angiotensina-Aldosterona (RAAS)",
+    "section": "1.6 Regulación del volumen y osmolaridad",
+    "text": "1.6 Regulación del volumen y osmolaridad\n\nHormonas clave:\n\nADH → conservación de agua.\nAldosterona → reabsorción de Na⁺.\nPéptidos natriuréticos → excreción de Na⁺ y agua.\nSistema Renina-Angiotensina-Aldosterona (RAAS)",
     "crumbs": [
       "<span class='chapter-number'>1</span>  <span class='chapter-title'>Fisiología renal</span>"
     ]
@@ -93,8 +83,8 @@
     "objectID": "1_Renal.html#excreción-de-sustancias",
     "href": "1_Renal.html#excreción-de-sustancias",
     "title": "1  Fisiología renal",
-    "section": "1.7 7. Excreción de sustancias",
-    "text": "1.7 7. Excreción de sustancias\n\nUrea, creatinina, ácidos y bases.\nSustancias exógenas (fármacos): vía principal de eliminación.",
+    "section": "1.7 Excreción de sustancias",
+    "text": "1.7 Excreción de sustancias\n\nUrea, creatinina, ácidos y bases.\nSustancias exógenas (fármacos): vía principal de eliminación.",
     "crumbs": [
       "<span class='chapter-number'>1</span>  <span class='chapter-title'>Fisiología renal</span>"
     ]
@@ -103,8 +93,8 @@
     "objectID": "1_Renal.html#regulación-ácido-base-renal",
     "href": "1_Renal.html#regulación-ácido-base-renal",
     "title": "1  Fisiología renal",
-    "section": "1.8 8. Regulación ácido-base renal",
-    "text": "1.8 8. Regulación ácido-base renal\n\nMecanismos:\n\nSecreción de H⁺.\nReabsorción de HCO₃⁻.\nProducción de NH₄⁺ y ácidos titulables.",
+    "section": "1.8 Regulación ácido-base renal",
+    "text": "1.8 Regulación ácido-base renal\n\nMecanismos:\n\nSecreción de H⁺.\nReabsorción de HCO₃⁻.\nProducción de NH₄⁺ y ácidos titulables.",
     "crumbs": [
       "<span class='chapter-number'>1</span>  <span class='chapter-title'>Fisiología renal</span>"
     ]
@@ -113,8 +103,8 @@
     "objectID": "1_Renal.html#diuresis-y-alteraciones",
     "href": "1_Renal.html#diuresis-y-alteraciones",
     "title": "1  Fisiología renal",
-    "section": "1.9 9. Diuresis y alteraciones",
-    "text": "1.9 9. Diuresis y alteraciones\n\nTipos:\n\nDiuresis osmótica\nDiuresis acuosa\n\nAlteraciones clínicas comunes:\n\nAcidosis / Alcalosis metabólica\nInsuficiencia renal aguda y crónica\nSíndrome nefrótico y nefrítico",
+    "section": "1.9 Diuresis y alteraciones",
+    "text": "1.9 Diuresis y alteraciones\n\nTipos:\n\nDiuresis osmótica\nDiuresis acuosa\n\nAlteraciones clínicas comunes:\n\nAcidosis / Alcalosis metabólica\nInsuficiencia renal aguda y crónica\nSíndrome nefrótico y nefrítico",
     "crumbs": [
       "<span class='chapter-number'>1</span>  <span class='chapter-title'>Fisiología renal</span>"
     ]
