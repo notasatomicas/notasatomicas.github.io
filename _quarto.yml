@@ -13,8 +13,6 @@ book:
     - 4_Metabolismo-energetico.qmd
     - summary.qmd
 
-language: es
-
 format:
   html:
     theme:
