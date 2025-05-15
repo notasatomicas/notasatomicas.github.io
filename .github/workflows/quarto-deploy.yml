@@ -1,47 +1,32 @@
-name: Build & Deploy Quarto Blog
+name: Quarto Publish
 
 on:
   push:
-    branches: [ main ]
-
-permissions:
-  contents: write    # necesario para crear/actualizar gh-pages
-  pages: write
+    branches:
+      - main
 
 jobs:
-  build-and-deploy:
+  build-deploy:
     runs-on: ubuntu-latest
 
     steps:
-      # 1. Trae tu código
-      - name: Checkout repository
-        uses: actions/checkout@v4
-        with:
-          persist-credentials: true
+      - uses: actions/checkout@v4
 
-      # 2. Instala Quarto CLI
-      - name: Setup Quarto
-        uses: quarto-dev/quarto-actions/setup@v2  # instala Quarto en el runner :contentReference[oaicite:0]{index=0}
+      - uses: quarto-dev/quarto-actions/setup@v2
 
-      # 3. (Opcional) Instala dependencias de R/Python/Julia si tu blog las usa
-      # - name: Install R dependencies
-      #   run: Rscript -e "install.packages(c('blogdown','rmarkdown'), repos='https://cloud.r-project.org')"
-
-      # 4. Renderiza el sitio Quarto
-      - name: Render Quarto site
-        run: quarto render .
-
-      # 5. Asegura el archivo .nojekyll
-      - name: Add .nojekyll marker
+      # Instala TinyTeX para poder compilar PDF
+      - name: Install TinyTeX
         run: |
-          mkdir -p _site
-          touch _site/.nojekyll
+          quarto install tinytex
+          sudo apt-get update
+          sudo apt-get install -y libfreetype6-dev libfontconfig1
 
-      # 6. Despliega a gh-pages
-      - name: Deploy to gh-pages
+      - name: Render Book (HTML + PDF)
+        run: |
+          quarto render .
+
+      - name: Publish to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_branch: gh-pages
-          publish_dir: _site
-          # commit_message: "🚀 Update Quarto site"
+          publish_dir: ./_book
