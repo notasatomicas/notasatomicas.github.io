@@ -1,30 +1,20 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Repaso Fisiología",
-    "section": "",
-    "text": "Temas que se dieron en los teoricos/practicos\nEl objetivo de este apunte es guardar la info importante en forma automática en la nube en un formato reproducible, transferible, fiable y elegante.\nEste es el orden de los temas (mas o menos) que se fueron dando despues del primer parcial en los distintos teoricos/practicos.\n\n1. RENAL\n\nAnatomía fisiológica del riñón\nOrganización estructural del nefrón, los túbulos renales y su relación con los vasos sanguíneos.\nCirculación renal\nCaracterísticas especiales del flujo sanguíneo renal, autorregulación y particularidades del sistema portal renal.\nFiltración glomerular\nMecanismo de filtración en el glomérulo, factores que la regulan y su importancia clínica.\nMecanismo de formación de orina\nProcesos de filtración, reabsorción tubular y secreción, con énfasis en su función integrada.\nMecanismo de contracorriente\nSistema multiplicador y de intercambio en asa de Henle y capilares rectos, crucial para la concentración de la orina.\n\n\n\n\n2. DIGESTIVO\n\nAparato digestivo: secreción, digestión y absorción\nProcesos fundamentales que permiten descomponer los alimentos en nutrientes absorbibles y trasladarlos al sistema circulatorio portal.\nMotricidad, peristaltismo, conceptos y regulación\nMovimientos musculares del tubo digestivo, incluyendo el peristaltismo y su control neural y hormonal.\nPáncreas exócrino\nFunción secretora del páncreas: producción de enzimas digestivas, su activación y regulación por señales intestinales.\nFisiología del hígado\nProcesamiento de nutrientes, síntesis de proteínas plasmáticas, metabolismo de lípidos y detoxificación hepática.\n\n\n\n\n3. FISIOLOGÍA DEL EJERCICIO\n\n\n\n4. METABOLISMO ENERGÉTICO (un repaso de Interrelaciones metabólicas de bioqui)\n\nMetabolismo energético: concepto y uso de la energía por el organismo\nDefinición de metabolismo energético y formas en que el cuerpo utiliza ATP para funciones celulares, musculares y de mantenimiento basal.\nInterrelaciones metabólicas\nConexión entre rutas metabólicas (glucólisis, lipólisis, gluconeogénesis, etc.) y cómo se adaptan según el estado nutricional y hormonal.\nEl adipocito como órgano endocrino\nFunción hormonal del tejido adiposo: secreción de leptina, adiponectina y su influencia en la homeostasis energética y la inflamación.\nGasto energético: métodos para su determinación\nMétodos directos e indirectos para medir el gasto energético, incluyendo calorimetría y fórmulas predictivas.",
-    "crumbs": [
-      "Temas que se dieron en los teoricos/practicos"
-    ]
-  },
-  {
     "objectID": "1_Renal.html",
     "href": "1_Renal.html",
     "title": "1  Fisiología renal",
     "section": "",
-    "text": "1.1 Funciones del riñon\nEl sistema renal desempeña un papel fundamental en el mantenimiento de la homeostasis del organismo. A través de procesos como la filtración, la reabsorción y la secreción, los riñones regulan el volumen de líquidos corporales, el equilibrio ácido-base, y la eliminación de desechos metabólicos.",
+    "text": "1.1 Funciones principales del riñón:",
     "crumbs": [
       "<span class='chapter-number'>1</span>  <span class='chapter-title'>Fisiología renal</span>"
     ]
   },
   {
-    "objectID": "1_Renal.html#funciones-del-riñon",
-    "href": "1_Renal.html#funciones-del-riñon",
+    "objectID": "1_Renal.html#funciones-principales-del-riñón",
+    "href": "1_Renal.html#funciones-principales-del-riñón",
     "title": "1  Fisiología renal",
     "section": "",
-    "text": "Funciones principales del riñón:\n\nRegulación del volumen y composición del líquido extracelular.\nRegulación del equilibrio ácido-base.\nEliminación de productos metabólicos y sustancias extrañas.\nProducción de hormonas: eritropoyetina, renina, 1,25-dihidroxivitamina D3 (calcitriol).\nGluconeogénesis durante el ayuno prolongado.",
+    "text": "Regulación del volumen y composición del líquido extracelular.\nRegulación del equilibrio ácido-base.\nEliminación de productos metabólicos y sustancias extrañas.\nProducción de hormonas: eritropoyetina, renina, 1,25-dihidroxivitamina D3 (calcitriol).\nGluconeogénesis durante el ayuno prolongado.",
     "crumbs": [
       "<span class='chapter-number'>1</span>  <span class='chapter-title'>Fisiología renal</span>"
     ]
@@ -34,77 +24,7 @@
     "href": "1_Renal.html#anatomía-funcional-del-riñón",
     "title": "1  Fisiología renal",
     "section": "1.2 Anatomía funcional del riñón",
-    "text": "1.2 Anatomía funcional del riñón\n\nComponentes principales:\n\nNefrona: unidad funcional del riñón.\n\nGlomérulo\nTúbulo proximal\nAsa de Henle (descendente y ascendente)\nTúbulo distal\nTúbulo colector\n\nVascularización: arteria renal → arterias interlobulares → arteriolas aferentes → glomérulo → arteriolas eferentes → capilares peritubulares / vasos rectos.",
-    "crumbs": [
-      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Fisiología renal</span>"
-    ]
-  },
-  {
-    "objectID": "1_Renal.html#filtración-glomerular",
-    "href": "1_Renal.html#filtración-glomerular",
-    "title": "1  Fisiología renal",
-    "section": "1.3 Filtración glomerular",
-    "text": "1.3 Filtración glomerular\n\nPresión de filtración neta:\n\nPNF = P hidro. glomerular - (P coloidosmótica glomerular + P hidro. capsular)\n\nTasa de Filtración Glomerular (TFG):\n\nPromedio ≈ 125 ml/min\nRegulación por autorregulación renal (mecanismo miogénico y feedback túbulo-glomerular)",
-    "crumbs": [
-      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Fisiología renal</span>"
-    ]
-  },
-  {
-    "objectID": "1_Renal.html#reabsorción-y-secreción-tubular",
-    "href": "1_Renal.html#reabsorción-y-secreción-tubular",
-    "title": "1  Fisiología renal",
-    "section": "1.4 Reabsorción y secreción tubular",
-    "text": "1.4 Reabsorción y secreción tubular\n\nTúbulo proximal:\n\nReabsorbe ≈ 65% del filtrado.\nMecanismos activos (Na⁺/K⁺ ATPasa) y cotransporte (glucosa, aminoácidos).\n\nAsa de Henle:\n\nDescendente: permeable al agua.\nAscendente gruesa: impermeable al agua, activa en transporte de Na⁺, K⁺, Cl⁻.\n\nTúbulo distal y colector:\n\nAjuste fino del Na⁺, H₂O y K⁺.\nRegulado por aldosterona, ADH, y otras hormonas.",
-    "crumbs": [
-      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Fisiología renal</span>"
-    ]
-  },
-  {
-    "objectID": "1_Renal.html#concentración-y-dilución-de-la-orina",
-    "href": "1_Renal.html#concentración-y-dilución-de-la-orina",
-    "title": "1  Fisiología renal",
-    "section": "1.5 Concentración y dilución de la orina",
-    "text": "1.5 Concentración y dilución de la orina\n\nMecanismo de contracorriente:\n\nMultiplicador (asa de Henle) y sistema intercambiador (vasos rectos).\n\nGradiente osmótico medular:\n\nImprescindible para la concentración urinaria.\n\nAcción de la ADH (vasopresina):\n\nAumenta la permeabilidad al agua del túbulo colector → concentración urinaria.",
-    "crumbs": [
-      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Fisiología renal</span>"
-    ]
-  },
-  {
-    "objectID": "1_Renal.html#regulación-del-volumen-y-osmolaridad",
-    "href": "1_Renal.html#regulación-del-volumen-y-osmolaridad",
-    "title": "1  Fisiología renal",
-    "section": "1.6 Regulación del volumen y osmolaridad",
-    "text": "1.6 Regulación del volumen y osmolaridad\n\nHormonas clave:\n\nADH → conservación de agua.\nAldosterona → reabsorción de Na⁺.\nPéptidos natriuréticos → excreción de Na⁺ y agua.\nSistema Renina-Angiotensina-Aldosterona (RAAS)",
-    "crumbs": [
-      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Fisiología renal</span>"
-    ]
-  },
-  {
-    "objectID": "1_Renal.html#excreción-de-sustancias",
-    "href": "1_Renal.html#excreción-de-sustancias",
-    "title": "1  Fisiología renal",
-    "section": "1.7 Excreción de sustancias",
-    "text": "1.7 Excreción de sustancias\n\nUrea, creatinina, ácidos y bases.\nSustancias exógenas (fármacos): vía principal de eliminación.",
-    "crumbs": [
-      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Fisiología renal</span>"
-    ]
-  },
-  {
-    "objectID": "1_Renal.html#regulación-ácido-base-renal",
-    "href": "1_Renal.html#regulación-ácido-base-renal",
-    "title": "1  Fisiología renal",
-    "section": "1.8 Regulación ácido-base renal",
-    "text": "1.8 Regulación ácido-base renal\n\nMecanismos:\n\nSecreción de H⁺.\nReabsorción de HCO₃⁻.\nProducción de NH₄⁺ y ácidos titulables.",
-    "crumbs": [
-      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Fisiología renal</span>"
-    ]
-  },
-  {
-    "objectID": "1_Renal.html#diuresis-y-alteraciones",
-    "href": "1_Renal.html#diuresis-y-alteraciones",
-    "title": "1  Fisiología renal",
-    "section": "1.9 Diuresis y alteraciones",
-    "text": "1.9 Diuresis y alteraciones\n\nTipos:\n\nDiuresis osmótica\nDiuresis acuosa\n\nAlteraciones clínicas comunes:\n\nAcidosis / Alcalosis metabólica\nInsuficiencia renal aguda y crónica\nSíndrome nefrótico y nefrítico",
+    "text": "1.2 Anatomía funcional del riñón\n\nComponentes principales:\n\nNefrona: unidad funcional del riñón.\n\nGlomérulo\nTúbulo proximal\nAsa de Henle (descendente y ascendente)\nTúbulo distal\nTúbulo colector\n\nVascularización (de mayor a menor): arteria renal → arterias interlobulares → arteriolas aferentes → glomérulo → arteriolas eferentes → capilares peritubulares / vasos rectos.",
     "crumbs": [
       "<span class='chapter-number'>1</span>  <span class='chapter-title'>Fisiología renal</span>"
     ]
@@ -113,8 +33,8 @@
     "objectID": "1_Renal.html#tipos-de-nefronas",
     "href": "1_Renal.html#tipos-de-nefronas",
     "title": "1  Fisiología renal",
-    "section": "1.10 Tipos de Nefronas",
-    "text": "1.10 Tipos de Nefronas\nEn el riñón humano existen dos tipos principales de nefronas: corticales y yuxtamedulares. Ambas desempeñan funciones esenciales en la filtración, reabsorción y concentración urinaria, pero tienen diferencias anatómicas y funcionales clave.\n\n1.10.1 Nefronas Corticales\n\nRepresentan aproximadamente el 85% del total de nefronas.\nGlomérulos ubicados en la corteza renal externa.\nTienen un asa de Henle corta, que apenas penetra la médula renal.\nEl sistema tubular está rodeado por capilares peritubulares.\nSon las principales responsables de la excreción de productos de desecho y del mantenimiento del equilibrio hidroelectrolítico.\n\n\n\n1.10.2 Nefronas Yuxtamedulares\n\nRepresentan aproximadamente el 15% del total de nefronas.\nGlomérulos ubicados en la corteza renal interna, cerca de la médula.\nPoseen un asa de Henle larga, que se introduce profundamente en la médula.\nEstán rodeadas por vasos sanguíneos especializados llamados vasos rectos (vasa recta).\nTienen un papel fundamental en la capacidad del riñón para concentrar o diluir la orina, gracias a la creación de un gradiente osmótico medular.",
+    "section": "1.3 Tipos de Nefronas",
+    "text": "1.3 Tipos de Nefronas\nEn el riñón humano existen dos tipos principales de nefronas: corticales y yuxtamedulares. Ambas desempeñan funciones esenciales en la filtración, reabsorción y concentración urinaria, pero tienen diferencias anatómicas y funcionales clave.\n\n1.3.1 Nefronas Corticales\n\nRepresentan aproximadamente el 85% del total de nefronas.\nGlomérulos ubicados en la corteza renal externa.\nTienen un asa de Henle corta, que apenas penetra la médula renal.\nEl sistema tubular está rodeado por capilares peritubulares.\nSon las principales responsables de la excreción de productos de desecho y del mantenimiento del equilibrio hidroelectrolítico.\n\n\n\n1.3.2 Nefronas Yuxtamedulares\n\nRepresentan aproximadamente el 15% del total de nefronas.\nGlomérulos ubicados en la corteza renal interna, cerca de la médula.\nPoseen un asa de Henle larga, que se introduce profundamente en la médula.\nEstán rodeadas por vasos sanguíneos especializados llamados vasos rectos (vasa recta).\nTienen un papel fundamental en la capacidad del riñón para concentrar o diluir la orina, gracias a la creación de un gradiente osmótico medular.",
     "crumbs": [
       "<span class='chapter-number'>1</span>  <span class='chapter-title'>Fisiología renal</span>"
     ]
@@ -123,18 +43,98 @@
     "objectID": "1_Renal.html#tabla-comparativa-de-tipos-de-nefronas",
     "href": "1_Renal.html#tabla-comparativa-de-tipos-de-nefronas",
     "title": "1  Fisiología renal",
-    "section": "1.11 Tabla Comparativa de Tipos de Nefronas",
-    "text": "1.11 Tabla Comparativa de Tipos de Nefronas\n\n\n\n\n\n\n\n\nCaracterística\nNefronas Corticales\nNefronas Yuxtamedulares\n\n\n\n\nPorcentaje en el riñón\n85%\n15%\n\n\nUbicación del glomérulo\nCorteza externa\nCorteza interna\n\n\nLongitud del asa de Henle\nCorta\nLarga\n\n\nPenetración en la médula\nSuperficial o escasa\nProfunda\n\n\nCapilares que las rodean\nCapilares peritubulares\nVasos rectos (vasa recta)\n\n\nFunción principal\nExcreción de desechos\nConcentración/dilución de orina",
+    "section": "1.4 Tabla Comparativa de Tipos de Nefronas",
+    "text": "1.4 Tabla Comparativa de Tipos de Nefronas\n\n\n\n\n\n\n\n\nCaracterística\nNefronas Corticales\nNefronas Yuxtamedulares\n\n\n\n\nPorcentaje en el riñón\n85%\n15%\n\n\nUbicación del glomérulo\nCorteza externa\nCorteza interna\n\n\nLongitud del asa de Henle\nCorta\nLarga\n\n\nPenetración en la médula\nSuperficial o escasa\nProfunda\n\n\nCapilares que las rodean\nCapilares peritubulares\nVasos rectos (vasa recta)\n\n\nFunción principal\nExcreción de desechos\nConcentración/dilución de orina",
     "crumbs": [
       "<span class='chapter-number'>1</span>  <span class='chapter-title'>Fisiología renal</span>"
     ]
   },
   {
-    "objectID": "1_Renal.html#preguntas-de-repaso",
-    "href": "1_Renal.html#preguntas-de-repaso",
+    "objectID": "1_Renal.html#qué-es-un-osmol",
+    "href": "1_Renal.html#qué-es-un-osmol",
     "title": "1  Fisiología renal",
-    "section": "1.12 Preguntas de Repaso",
-    "text": "1.12 Preguntas de Repaso\n\n¿Qué porcentaje del total de nefronas en el riñón humano corresponde a las nefronas yuxtamedulares?\n¿Qué estructura vascular rodea al sistema tubular de las nefronas corticales?\n¿Cuál es la función principal del asa de Henle larga en las nefronas yuxtamedulares?\n¿Cómo contribuyen los vasos rectos a la concentración de la orina?\n¿Qué diferencias funcionales existen entre las nefronas corticales y yuxtamedulares?",
+    "section": "2.1 ¿Qué es un Osmol?",
+    "text": "2.1 ¿Qué es un Osmol?\n\nUn osmol representa una molécula (o grupo de moléculas) osmóticamente activa en una solución.\nCada molécula que se disocia en varios iones cuenta como múltiples osmoles.\nEjemplo:\n\n1 mol de NaCl → 1 mol de Na⁺ + 1 mol de Cl⁻ = 2 osmoles\n1 mol de glucosa (no se disocia) = 1 osmol\n\n\n\n💡 Importante: No todas las moléculas afectan igual la presión osmótica. Solo aquellas que no atraviesan fácilmente las membranas celulares contribuyen de manera significativa.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Fisiología renal</span>"
+    ]
+  },
+  {
+    "objectID": "1_Renal.html#osmolalidad-vs.-osmolaridad",
+    "href": "1_Renal.html#osmolalidad-vs.-osmolaridad",
+    "title": "1  Fisiología renal",
+    "section": "2.2 Osmolalidad vs. Osmolaridad",
+    "text": "2.2 Osmolalidad vs. Osmolaridad\n\n\n\n\n\n\n\n\n\nTérmino\nDefinición\nUnidad\nComún en…\n\n\n\n\nOsmolalidad\nNúmero de osmoles por kilogramo de agua (solvente)\nmOsm/kg H₂O\nFisiología celular\n\n\nOsmolaridad\nNúmero de osmoles por litro de solución (soluto + solvente)\nmOsm/L de solución\nPráctica clínica general\n\n\n\n\nLa osmolalidad se considera más precisa, ya que no se ve afectada por cambios en el volumen de los solutos o la temperatura.\nEn la práctica, osmolalidad y osmolaridad son muy similares en líquidos corporales diluidos, como el plasma, debido al alto contenido de agua (≈ 1 kg/L).\n\n\n💡 Esto se dijo en un practico: Al final consideramos como concepto el de osmolaridad y osmolalidad como la misma cosa",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Fisiología renal</span>"
+    ]
+  },
+  {
+    "objectID": "1_Renal.html#valor-normal-de-osmolaridad-plasmática",
+    "href": "1_Renal.html#valor-normal-de-osmolaridad-plasmática",
+    "title": "1  Fisiología renal",
+    "section": "2.3 Valor Normal de Osmolaridad Plasmática",
+    "text": "2.3 Valor Normal de Osmolaridad Plasmática\n\nValor promedio: 290 ± 10 mOsm/L\nEste valor refleja principalmente la concentración de:\n\nSodio (Na⁺) y sus aniones asociados (Cl⁻, HCO₃⁻)\nGlucosa\nUrea (BUN – Blood Urea Nitrogen)\n\n\n📌 Fórmula clínica aproximada para calcular la osmolaridad plasmática:\n\n\n\nFórmula de osmolaridad",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Fisiología renal</span>"
+    ]
+  },
+  {
+    "objectID": "1_Renal.html#aplicaciones-fisiológicas",
+    "href": "1_Renal.html#aplicaciones-fisiológicas",
+    "title": "1  Fisiología renal",
+    "section": "2.4 Aplicaciones fisiológicas",
+    "text": "2.4 Aplicaciones fisiológicas\n\nOsmorreceptores en el hipotálamo detectan cambios de osmolalidad.\nIncremento en osmolalidad → secreción de ADH → retención de agua en los túbulos colectores.\nDisminución en osmolalidad → supresión de ADH → diuresis acuosa.\n\n\n2.4.1 Requisitos para la excreción de una orina concentrada\nLa capacidad renal para excretar orina concentrada es crucial para conservar el agua corporal, especialmente en condiciones de deshidratación. Este proceso requiere dos condiciones esenciales:\n\n\n2.4.1.1 ▸ 1. Niveles elevados de hormona antidiurética (ADH)\nLa vasopresina (ADH) se libera en respuesta a:\n\nAumento de la osmolaridad plasmática\nDisminución del volumen o presión arterial\n\nEl principal efecto de la ADH es aumentar la permeabilidad al agua del túbulo colector distal y del conducto colector medular.\nCuando la ADH se encuentra en concentraciones elevadas:\n[ ]\n\nOsmolaridad máxima de la orina humana:\n[ ,200  ]\nVolumen mínimo de orina para eliminar solutos diarios:\n[   ]\n\n\nReferencia: Guyton y Hall, Capítulo 28\n\n\n\n\n2.4.1.2 ▸ 2. Médula renal hiperosmótica\nLa osmolaridad del intersticio medular renal aumenta progresivamente hacia la papila renal, lo cual se debe a:\n\nMecanismo de multiplicación por contracorriente (asa de Henle)\nRecirculación de urea\nTransporte activo de NaCl en la rama ascendente gruesa\n\nEste gradiente permite la reabsorción pasiva de agua en presencia de ADH:\n[ _{} + ]\nEl resultado es una alta osmolaridad intersticial (hasta 1200–1400 mOsm/L) en la médula renal, condición indispensable para la concentración de la orina.\n\nReferencia: Guyton y Hall, Capítulos 28 y 29\n\n\n\n\n2.4.1.3 ✧ Resumen\nLa producción de orina concentrada depende de:\n\nADH alta → aumenta la permeabilidad al agua\nGradiente osmótico medular → genera el arrastre osmótico para la reabsorción de agua\n\nAmbos procesos actúan coordinadamente para conservar el agua corporal y mantener la homeostasis.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Fisiología renal</span>"
+    ]
+  },
+  {
+    "objectID": "1_Renal.html#filtración-glomerular",
+    "href": "1_Renal.html#filtración-glomerular",
+    "title": "1  Fisiología renal",
+    "section": "3.1 Filtración glomerular",
+    "text": "3.1 Filtración glomerular\n\nPresión de filtración neta:\n\nPNF = P hidro. glomerular - (P coloidosmótica glom. + P hidro. capsular)\n\nTasa de Filtración Glomerular (TFG):\n\nPromedio ≈ 125 ml/min\nRegulación por autorregulación renal (mecanismo miogénico y feedback túbulo-glomerular)",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Fisiología renal</span>"
+    ]
+  },
+  {
+    "objectID": "1_Renal.html#reabsorción-y-secreción-tubular",
+    "href": "1_Renal.html#reabsorción-y-secreción-tubular",
+    "title": "1  Fisiología renal",
+    "section": "3.2 Reabsorción y secreción tubular",
+    "text": "3.2 Reabsorción y secreción tubular\n\nTúbulo proximal:\n\nReabsorbe ≈ 65% del filtrado.\nMecanismos activos (Na⁺/K⁺ ATPasa) y cotransporte (glucosa, aminoácidos).\nAca se encuentra el ribete en cepillo\nGlucosa: Se reabsorbe casi toda la glucosa filtrada (99-100%).\nAminoácidos: Alrededor del 99% de los aminoácidos filtrados son reabsorbidos.\nEl TCP juega un papel crucial en la reabsorción de bicarbonato (HCO₃⁻). El HCO₃⁻ se intercambia por cloro (Cl⁻) y también es transportado activamente hacia el intersticio para mantener el equilibrio ácido-base.\n\nAsa de Henle:\n\nDescendente: permeable al agua.\nAscendente gruesa: impermeable al agua, activa en transporte de Na⁺, K⁺, Cl⁻.\n\nTúbulo distal y colector:\n\nAjuste fino del Na⁺, H₂O y K⁺.\nRegulado por aldosterona, ADH, y otras hormonas.\n\n\n\n💡 Esto se dijo en un practico: - No te olvides que en la parte apical de las células de la porcion ascendente gruesa se encuentra el canal de simporte sodio-potasio-2Cloro - En el túbulo colector se van a adherir vesiculas con acuaporinas (y expresar acuaporinas) en presencia de ADH, es decir, cuando se censa que hay poca agua y/o aumento de osmolaridad",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Fisiología renal</span>"
+    ]
+  },
+  {
+    "objectID": "1_Renal.html#regulación-del-volumen-y-osmolaridad",
+    "href": "1_Renal.html#regulación-del-volumen-y-osmolaridad",
+    "title": "1  Fisiología renal",
+    "section": "4.1 Regulación del volumen y osmolaridad",
+    "text": "4.1 Regulación del volumen y osmolaridad\n\nHormonas clave:\n\nADH → conservación de agua.\nAldosterona → reabsorción de Na⁺.\nPéptidos natriuréticos → excreción de Na⁺ y agua.\nSistema Renina-Angiotensina-Aldosterona (RAAS)",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Fisiología renal</span>"
+    ]
+  },
+  {
+    "objectID": "1_Renal.html#excreción-de-sustancias",
+    "href": "1_Renal.html#excreción-de-sustancias",
+    "title": "1  Fisiología renal",
+    "section": "4.2 Excreción de sustancias",
+    "text": "4.2 Excreción de sustancias\n\nUrea, creatinina, ácidos y bases.\nSustancias exógenas (fármacos): vía principal de eliminación.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Fisiología renal</span>"
+    ]
+  },
+  {
+    "objectID": "1_Renal.html#regulación-ácido-base-renal",
+    "href": "1_Renal.html#regulación-ácido-base-renal",
+    "title": "1  Fisiología renal",
+    "section": "4.3 Regulación ácido-base renal",
+    "text": "4.3 Regulación ácido-base renal\n\nMecanismos:\n\nSecreción de H⁺.\nReabsorción de HCO₃⁻.\nProducción de NH₄⁺ y ácidos titulables.",
     "crumbs": [
       "<span class='chapter-number'>1</span>  <span class='chapter-title'>Fisiología renal</span>"
     ]
@@ -143,18 +143,8 @@
     "objectID": "1_Renal.html#conceptos-clave-del-guyton-13ª-ed.",
     "href": "1_Renal.html#conceptos-clave-del-guyton-13ª-ed.",
     "title": "1  Fisiología renal",
-    "section": "1.13 Conceptos Clave del Guyton (13ª ed.)",
-    "text": "1.13 Conceptos Clave del Guyton (13ª ed.)\n\nEl gradiente osmótico en la médula renal es esencial para la reabsorción de agua.\nLas nefronas yuxtamedulares son fundamentales para la concentración máxima de la orina, mediante el mecanismo de contracorriente.\nLos capilares peritubulares permiten una eficiente reabsorción de solutos y agua en nefronas corticales.\nLa tasa de filtración glomerular (TFG) depende del número y función de ambos tipos de nefronas.",
-    "crumbs": [
-      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Fisiología renal</span>"
-    ]
-  },
-  {
-    "objectID": "1_Renal.html#osmoles-osmolalidad-y-osmolaridad",
-    "href": "1_Renal.html#osmoles-osmolalidad-y-osmolaridad",
-    "title": "1  Fisiología renal",
-    "section": "1.14 Osmoles, Osmolalidad y Osmolaridad",
-    "text": "1.14 Osmoles, Osmolalidad y Osmolaridad\nLa capacidad de una solución para ejercer una presión osmótica depende de la cantidad total de partículas disueltas, sin importar su naturaleza química. Para cuantificar estas partículas, se utilizan los conceptos de osmoles, osmolalidad y osmolaridad.\n\n1.14.1 1. ¿Qué es un Osmol?\n\nUn osmol representa una molécula (o grupo de moléculas) osmóticamente activa en una solución.\nCada molécula que se disocia en varios iones cuenta como múltiples osmoles.\nEjemplo:\n\n1 mol de NaCl → 1 mol de Na⁺ + 1 mol de Cl⁻ = 2 osmoles\n1 mol de glucosa (no se disocia) = 1 osmol\n\n\n\n💡 Importante: No todas las moléculas afectan igual la presión osmótica. Solo aquellas que no atraviesan fácilmente las membranas celulares contribuyen de manera significativa.\n\n\n\n\n1.14.2 2. Osmolalidad vs. Osmolaridad\n\n\n\n\n\n\n\n\n\nTérmino\nDefinición\nUnidad\nComún en…\n\n\n\n\nOsmolalidad\nNúmero de osmoles por kilogramo de agua (solvente)\nmOsm/kg H₂O\nFisiología celular\n\n\nOsmolaridad\nNúmero de osmoles por litro de solución (soluto + solvente)\nmOsm/L de solución\nPráctica clínica general\n\n\n\n\nLa osmolalidad se considera más precisa, ya que no se ve afectada por cambios en el volumen de los solutos o la temperatura.\nEn la práctica, osmolalidad y osmolaridad son muy similares en líquidos corporales diluidos, como el plasma, debido al alto contenido de agua (≈ 1 kg/L).\n\n\n\n\n1.14.3 3. Valor Normal de Osmolaridad Plasmática\n\nValor promedio: 290 ± 10 mOsm/L\nEste valor refleja principalmente la concentración de:\n\nSodio (Na⁺) y sus aniones asociados (Cl⁻, HCO₃⁻)\nGlucosa\nUrea (BUN – Blood Urea Nitrogen)\n\n\n📌 Fórmula clínica aproximada para calcular la osmolaridad plasmática:\n\n\n\nFórmula de osmolaridad\n\n\n\n\n\n\n\n1.14.4 4. Aplicaciones fisiológicas\n\nOsmorreceptores en el hipotálamo detectan cambios de osmolalidad.\nIncremento en osmolalidad → secreción de ADH → retención de agua en los túbulos colectores.\nDisminución en osmolalidad → supresión de ADH → diuresis acuosa.",
+    "section": "4.4 Conceptos Clave del Guyton (13ª ed.)",
+    "text": "4.4 Conceptos Clave del Guyton (13ª ed.)\n\nEl gradiente osmótico en la médula renal es esencial para la reabsorción de agua.\nLas nefronas yuxtamedulares son fundamentales para la concentración máxima de la orina, mediante el mecanismo de contracorriente.\nLos capilares peritubulares permiten una eficiente reabsorción de solutos y agua en nefronas corticales.\nLa tasa de filtración glomerular (TFG) depende del número y función de ambos tipos de nefronas.",
     "crumbs": [
       "<span class='chapter-number'>1</span>  <span class='chapter-title'>Fisiología renal</span>"
     ]
@@ -163,8 +153,8 @@
     "objectID": "1_Renal.html#mecanismo-de-formación-de-la-orina-filtración-secreción-y-reabsorción",
     "href": "1_Renal.html#mecanismo-de-formación-de-la-orina-filtración-secreción-y-reabsorción",
     "title": "1  Fisiología renal",
-    "section": "2.1 Mecanismo de formación de la orina: filtración, secreción y reabsorción",
-    "text": "2.1 Mecanismo de formación de la orina: filtración, secreción y reabsorción\nLa formación de orina ocurre en tres etapas: filtración glomerular (paso de líquido desde los capilares glomerulares hacia la cápsula de Bowman), reabsorción tubular (retorno de sustancias útiles desde el túbulo hacia la sangre) y secreción tubular (transporte activo de sustancias desde la sangre hacia el túbulo para su eliminación).",
+    "section": "5.1 Mecanismo de formación de la orina: filtración, secreción y reabsorción",
+    "text": "5.1 Mecanismo de formación de la orina: filtración, secreción y reabsorción\nLa formación de orina ocurre en tres etapas: filtración glomerular (paso de líquido desde los capilares glomerulares hacia la cápsula de Bowman), reabsorción tubular (retorno de sustancias útiles desde el túbulo hacia la sangre) y secreción tubular (transporte activo de sustancias desde la sangre hacia el túbulo para su eliminación).",
     "crumbs": [
       "<span class='chapter-number'>1</span>  <span class='chapter-title'>Fisiología renal</span>"
     ]
@@ -173,8 +163,8 @@
     "objectID": "1_Renal.html#mecanismo-de-contracorriente",
     "href": "1_Renal.html#mecanismo-de-contracorriente",
     "title": "1  Fisiología renal",
-    "section": "2.2 Mecanismo de contracorriente",
-    "text": "2.2 Mecanismo de contracorriente\nEs un proceso que ocurre en el asa de Henle y los vasos rectos. Permite la concentración de la orina gracias al intercambio de solutos y agua entre segmentos descendente y ascendente, y al gradiente osmótico en la médula renal. Este mecanismo es esencial para la conservación de agua.",
+    "section": "5.2 Mecanismo de contracorriente",
+    "text": "5.2 Mecanismo de contracorriente\nEs un proceso que ocurre en el asa de Henle y los vasos rectos. Permite la concentración de la orina gracias al intercambio de solutos y agua entre segmentos descendente y ascendente, y al gradiente osmótico en la médula renal. Este mecanismo es esencial para la conservación de agua.",
     "crumbs": [
       "<span class='chapter-number'>1</span>  <span class='chapter-title'>Fisiología renal</span>"
     ]
@@ -183,8 +173,8 @@
     "objectID": "1_Renal.html#anatomía-fisiológica-renal",
     "href": "1_Renal.html#anatomía-fisiológica-renal",
     "title": "1  Fisiología renal",
-    "section": "2.3 Anatomía fisiológica renal",
-    "text": "2.3 Anatomía fisiológica renal\nCada riñón contiene alrededor de un millón de nefronas, unidad funcional básica. Estas incluyen un glomérulo, túbulos proximales, asa de Henle, túbulo distal y túbulo colector. La disposición cortical y medular permite la función de concentración de orina y regulación homeostática.",
+    "section": "5.3 Anatomía fisiológica renal",
+    "text": "5.3 Anatomía fisiológica renal\nCada riñón contiene alrededor de un millón de nefronas, unidad funcional básica. Estas incluyen un glomérulo, túbulos proximales, asa de Henle, túbulo distal y túbulo colector. La disposición cortical y medular permite la función de concentración de orina y regulación homeostática.",
     "crumbs": [
       "<span class='chapter-number'>1</span>  <span class='chapter-title'>Fisiología renal</span>"
     ]
@@ -193,8 +183,8 @@
     "objectID": "1_Renal.html#circulación-renal",
     "href": "1_Renal.html#circulación-renal",
     "title": "1  Fisiología renal",
-    "section": "2.4 Circulación renal",
-    "text": "2.4 Circulación renal\nRecibe aproximadamente el 20-25% del gasto cardíaco. Inicia en las arterias renales → arterias interlobares → arcuatas → interlobulillares → arteriolas aferentes → glomérulo → arteriolas eferentes → capilares peritubulares o vasos rectos. Esta distribución permite una regulación precisa de la filtración y el equilibrio hidroelectrolítico.",
+    "section": "5.4 Circulación renal",
+    "text": "5.4 Circulación renal\nRecibe aproximadamente el 20-25% del gasto cardíaco. Inicia en las arterias renales → arterias interlobares → arcuatas → interlobulillares → arteriolas aferentes → glomérulo → arteriolas eferentes → capilares peritubulares o vasos rectos. Esta distribución permite una regulación precisa de la filtración y el equilibrio hidroelectrolítico.",
     "crumbs": [
       "<span class='chapter-number'>1</span>  <span class='chapter-title'>Fisiología renal</span>"
     ]
@@ -203,8 +193,8 @@
     "objectID": "1_Renal.html#mecanismo-de-formación-de-orina",
     "href": "1_Renal.html#mecanismo-de-formación-de-orina",
     "title": "1  Fisiología renal",
-    "section": "2.5 Mecanismo de formación de orina",
-    "text": "2.5 Mecanismo de formación de orina\nInicia con la filtración en el glomérulo, seguida de reabsorción y secreción a lo largo del túbulo renal. El objetivo es mantener la homeostasis del organismo, ajustando el volumen, la osmolaridad y la composición de la orina según las necesidades fisiológicas.",
+    "section": "5.5 Mecanismo de formación de orina",
+    "text": "5.5 Mecanismo de formación de orina\nInicia con la filtración en el glomérulo, seguida de reabsorción y secreción a lo largo del túbulo renal. El objetivo es mantener la homeostasis del organismo, ajustando el volumen, la osmolaridad y la composición de la orina según las necesidades fisiológicas.",
     "crumbs": [
       "<span class='chapter-number'>1</span>  <span class='chapter-title'>Fisiología renal</span>"
     ]
@@ -213,10 +203,20 @@
     "objectID": "1_Renal.html#filtración-glomerular-1",
     "href": "1_Renal.html#filtración-glomerular-1",
     "title": "1  Fisiología renal",
-    "section": "2.6 Filtración glomerular",
-    "text": "2.6 Filtración glomerular\nEs un proceso pasivo impulsado por la presión hidrostática del capilar glomerular. El filtrado atraviesa una barrera de tres capas: endotelio capilar, membrana basal y podocitos. La TFG (tasa de filtración glomerular) normal es de ~125 mL/min en adultos, regulada por mecanismos como la autorregulación y señales hormonales.",
+    "section": "5.6 Filtración glomerular",
+    "text": "5.6 Filtración glomerular\nEs un proceso pasivo impulsado por la presión hidrostática del capilar glomerular. El filtrado atraviesa una barrera de tres capas: endotelio capilar, membrana basal y podocitos. La TFG (tasa de filtración glomerular) normal es de ~125 mL/min en adultos, regulada por mecanismos como la autorregulación y señales hormonales.",
     "crumbs": [
       "<span class='chapter-number'>1</span>  <span class='chapter-title'>Fisiología renal</span>"
+    ]
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Repaso Fisiología",
+    "section": "",
+    "text": "Temas que se dieron en los teoricos/practicos\nEl objetivo de este apunte es guardar la info importante en forma automática en la nube en un formato reproducible, transferible, fiable y elegante.\nEste es el orden de los temas (mas o menos) que se fueron dando despues del primer parcial en los distintos teoricos/practicos.\n\n1. RENAL\n\nAnatomía fisiológica del riñón\nOrganización estructural del nefrón, los túbulos renales y su relación con los vasos sanguíneos.\nCirculación renal\nCaracterísticas especiales del flujo sanguíneo renal, autorregulación y particularidades del sistema portal renal.\nFiltración glomerular\nMecanismo de filtración en el glomérulo, factores que la regulan y su importancia clínica.\nMecanismo de formación de orina\nProcesos de filtración, reabsorción tubular y secreción, con énfasis en su función integrada.\nMecanismo de contracorriente\nSistema multiplicador y de intercambio en asa de Henle y capilares rectos, crucial para la concentración de la orina.\n\n\n\n\n2. DIGESTIVO\n\nAparato digestivo: secreción, digestión y absorción\nProcesos fundamentales que permiten descomponer los alimentos en nutrientes absorbibles y trasladarlos al sistema circulatorio portal.\nMotricidad, peristaltismo, conceptos y regulación\nMovimientos musculares del tubo digestivo, incluyendo el peristaltismo y su control neural y hormonal.\nPáncreas exócrino\nFunción secretora del páncreas: producción de enzimas digestivas, su activación y regulación por señales intestinales.\nFisiología del hígado\nProcesamiento de nutrientes, síntesis de proteínas plasmáticas, metabolismo de lípidos y detoxificación hepática.\n\n\n\n\n3. FISIOLOGÍA DEL EJERCICIO\n\n\n\n4. METABOLISMO ENERGÉTICO (un repaso de Interrelaciones metabólicas de bioqui)\n\nMetabolismo energético: concepto y uso de la energía por el organismo\nDefinición de metabolismo energético y formas en que el cuerpo utiliza ATP para funciones celulares, musculares y de mantenimiento basal.\nInterrelaciones metabólicas\nConexión entre rutas metabólicas (glucólisis, lipólisis, gluconeogénesis, etc.) y cómo se adaptan según el estado nutricional y hormonal.\nEl adipocito como órgano endocrino\nFunción hormonal del tejido adiposo: secreción de leptina, adiponectina y su influencia en la homeostasis energética y la inflamación.\nGasto energético: métodos para su determinación\nMétodos directos e indirectos para medir el gasto energético, incluyendo calorimetría y fórmulas predictivas.",
+    "crumbs": [
+      "Temas que se dieron en los teoricos/practicos"
     ]
   },
   {
