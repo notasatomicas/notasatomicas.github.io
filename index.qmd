@@ -1,10 +1,10 @@
-# Repaso de fisiología {.unnumbered}
+# Temas que se dieron en los teoricos/practicos {.unnumbered}
 
-El objetivo de este apunte es guardar todos los archivos de repaso de fisio de forma automática en la nube en un formato reproducible.
+El objetivo de este apunte es guardar la info importante en forma automática en la nube en un formato reproducible, transferible, fiable y elegante.
 
-## Temas que se dieron en los teoricos/practicos
+Este es el orden de los temas (mas o menos) que se fueron dando despues del primer parcial en los distintos teoricos/practicos. 
 
-### RENAL
+### 1. RENAL
 
 - **Anatomía fisiológica del riñón**  
   Organización estructural del nefrón, los túbulos renales y su relación con los vasos sanguíneos.
@@ -23,7 +23,7 @@ El objetivo de este apunte es guardar todos los archivos de repaso de fisio de f
 
 ---
 
-### DIGESTIVO
+### 2. DIGESTIVO
 
 - **Aparato digestivo: secreción, digestión y absorción**  
   Procesos fundamentales que permiten descomponer los alimentos en nutrientes absorbibles y trasladarlos al sistema circulatorio portal.
@@ -39,11 +39,11 @@ El objetivo de este apunte es guardar todos los archivos de repaso de fisio de f
 
 ---
 
-### FISIOLOGÍA DEL EJERCICIO
+### 3. FISIOLOGÍA DEL EJERCICIO
 
 ---
 
-### METABOLISMO ENERGÉTICO
+### 4. METABOLISMO ENERGÉTICO (un repaso de Interrelaciones metabólicas de bioqui)
 
 - **Metabolismo energético: concepto y uso de la energía por el organismo**  
   Definición de metabolismo energético y formas en que el cuerpo utiliza ATP para funciones celulares, musculares y de mantenimiento basal.
