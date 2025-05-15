@@ -2,41 +2,41 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "notas_atomicas",
+    "title": "Repaso Fisiología",
     "section": "",
-    "text": "Preface\nThis is a Quarto book.\nTo learn more about Quarto books visit https://quarto.org/docs/books.",
+    "text": "Repaso de fisiología\nEl objetivo de este apunte es guardar todos los archivos de repaso de fisio de forma automática en la nube en un formato reproducible, fiable y elegante.",
     "crumbs": [
-      "Preface"
+      "Repaso de fisiología"
     ]
   },
   {
     "objectID": "intro.html",
     "href": "intro.html",
-    "title": "1  Introduction",
+    "title": "1  Introducción a Renal",
     "section": "",
-    "text": "This is a book created from markdown and executable code.\nSee Knuth (1984) for additional discussion of literate programming.\n\n\n\n\nKnuth, Donald E. 1984. “Literate Programming.” Comput. J. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97.",
+    "text": "1.1 Temas que se dieron en los teoricos/practicos",
     "crumbs": [
-      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Introduction</span>"
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Introducción a Renal</span>"
+    ]
+  },
+  {
+    "objectID": "intro.html#temas-que-se-dieron-en-los-teoricospracticos",
+    "href": "intro.html#temas-que-se-dieron-en-los-teoricospracticos",
+    "title": "1  Introducción a Renal",
+    "section": "",
+    "text": "Anatomía fisiológica del riñón\nOrganización estructural del nefrón, los túbulos renales y su relación con los vasos sanguíneos.\nCirculación renal\nCaracterísticas especiales del flujo sanguíneo renal, autorregulación y particularidades del sistema portal renal.\nFiltración glomerular\nMecanismo de filtración en el glomérulo, factores que la regulan y su importancia clínica.\nMecanismo de formación de orina\nProcesos de filtración, reabsorción tubular y secreción, con énfasis en su función integrada.\nMecanismo de contracorriente\nSistema multiplicador y de intercambio en asa de Henle y capilares rectos, crucial para la concentración de la orina.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Introducción a Renal</span>"
     ]
   },
   {
     "objectID": "summary.html",
     "href": "summary.html",
-    "title": "2  Summary",
+    "title": "2  Resumen",
     "section": "",
-    "text": "In summary, this book has no content whatsoever.",
+    "text": "En esta área iran los resumenes recontra importantes",
     "crumbs": [
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Summary</span>"
-    ]
-  },
-  {
-    "objectID": "references.html",
-    "href": "references.html",
-    "title": "References",
-    "section": "",
-    "text": "Knuth, Donald E. 1984. “Literate Programming.” Comput.\nJ. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97.",
-    "crumbs": [
-      "References"
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Resumen</span>"
     ]
   }
 ]
